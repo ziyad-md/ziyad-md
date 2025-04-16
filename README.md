@@ -1,6 +1,6 @@
 # Hi there!!!
 I'm a high-school student :). I love programming.
-- 📫 Reach me: nonickbro@outlook.com
+- 📫 Reach me: ziyadmdarpon@gmail.com
 ## MY skills:
 - ### Os I use:
  ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
